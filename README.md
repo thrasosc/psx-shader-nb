@@ -1,6 +1,6 @@
 # PSX Shader NB
 
-A fork of ckosmic's [Minecraft PSX Shader](https://github.com/ckosmic/minecraft-psx).
+This shader pack is a fork of ckosmic's [Minecraft PSX Shader](https://github.com/ckosmic/minecraft-psx) that mimics the look and feel of PlayStation 1 graphics.
 
 ## Changes in this Fork
 
